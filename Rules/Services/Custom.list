@@ -3,3 +3,5 @@ host-suffix,tradingview.com,Custom
 host-suffix,linkedin.con,Custom
 
 host-suffix,uscardforum.com,proxy
+
+host-suffix,gov.uk,proxy
