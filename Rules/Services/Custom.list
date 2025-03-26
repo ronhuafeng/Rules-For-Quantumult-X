@@ -6,3 +6,7 @@ host-suffix,uscardforum.com,proxy
 
 host-suffix,gov.uk,proxy
 host-suffix,co.uk,proxy
+
+
+host-suffix,stackblitz.com,proxy
+
